@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hellykoko
+- 👋 Hi, I’m Kelly.
 - 👀 I’m interested in Robotics and low level coding.
 - 🌱 I’m currently learning Embedded. Making an RGB Matrix display using a Raspberry Pi.
 - 💞️ I’m looking to collaborate on interesting projects.
